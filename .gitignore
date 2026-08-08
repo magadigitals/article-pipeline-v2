@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.bak-*
+*.pre-*
+*.db
+*.db-shm
+*.db-wal
+runs/
+*-output/
+clinic_profiles/
+.research_cache/
+.backups/
+output/
